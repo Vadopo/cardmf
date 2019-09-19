@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "ru.mamanfolle.ru.tst"
+        }
+    }
+}
